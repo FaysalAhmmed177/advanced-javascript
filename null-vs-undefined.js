@@ -22,3 +22,6 @@ console.log(fun);
 
 let ages = [23,25,26,27];
 console.log(ages[11]);
+
+let a = null;
+console.log(a);
